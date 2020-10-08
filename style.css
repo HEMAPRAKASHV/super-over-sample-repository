@@ -1,0 +1,11 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+body{
+background-color: rgb(145, 39, 239);
+font-size: 2em;
+font-weight: 500;
+color: white;
+}
